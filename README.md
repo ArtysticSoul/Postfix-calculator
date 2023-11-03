@@ -1,5 +1,5 @@
 # Postfix-calculator
-Course Project (COL106) under Prof. Subodh Sharma [August 2023] : Implemented postfix calculator using different data structures like stacks on fixed-sized arrays and dynamically-sized arrays and doubly linked lists.
+Course Project (COL106) under Prof. Subodh Sharma [August 2023] : Programmed an efficient postfix calculator using different data structures, such as stacks on fixed-sized arrays and dynamically-sized arrays, as well as a doubly linked list, with proper error handling.
 # Types of Stack Implementation
 stack_a : via fixed size arrays,
 
